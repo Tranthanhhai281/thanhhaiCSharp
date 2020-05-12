@@ -5,9 +5,73 @@
     <e p="C:\Users\Admin\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_ConsoleApp1.-520283260.00" t="ExcludeRecursive" />
     <e p="D:\Hoc Lap Trinh\rider\ConsoleApp1" t="IncludeFlat">
       <e p="ConsoleApp1" t="IncludeRecursive">
+        <e p="Assignment3" t="Include">
+          <e p="Cart.cs" t="Include" />
+        </e>
+        <e p="Assignment4" t="Include">
+          <e p="KhachHang.cs" t="Include" />
+          <e p="KhachHangNuocNgoai.cs" t="Include" />
+          <e p="KhachHangVietNam.cs" t="Include" />
+          <e p="Program.cs" t="Include" />
+        </e>
+        <e p="Assignment5" t="Include">
+          <e p="Phone.cs" t="Include" />
+          <e p="PhoneBook.cs" t="Include" />
+          <e p="PhoneNumber.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
         <e p="ConsoleApp1.csproj" t="IncludeRecursive" />
+        <e p="GeometryExample" t="Include">
+          <e p="Base.cs" t="Include" />
+          <e p="Cylinder.cs" t="Include" />
+          <e p="Exercise1.cs" t="Include" />
+          <e p="Lion.cs" t="Include" />
+          <e p="Program.cs" t="Include" />
+          <e p="Tiger.cs" t="Include" />
+        </e>
+        <e p="Lab2_3" t="Include">
+          <e p="Diamon.cs" t="Include" />
+          <e p="Fashion.cs" t="Include" />
+          <e p="Product.cs" t="Include" />
+          <e p="Program.cs" t="Include" />
+        </e>
+        <e p="Lab6" t="Include">
+          <e p="Calc.cs" t="Include" />
+          <e p="Lab6.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Program.cs" t="Include" />
+        <e p="Session2" t="Include">
+          <e p="Session2.cs" t="Include" />
+          <e p="Social.cs" t="Include" />
+          <e p="Student.cs" t="Include" />
+        </e>
+        <e p="Session3" t="Include">
+          <e p="Human.cs" t="Include" />
+          <e p="IHuman.cs" t="Include" />
+          <e p="Man.cs" t="Include" />
+          <e p="Program.cs" t="Include" />
+          <e p="Woman.cs" t="Include" />
+        </e>
+        <e p="Session5" t="Include">
+          <e p="Program.cs" t="Include" />
+        </e>
+        <e p="Session6" t="Include">
+          <e p="Calculator.cs" t="Include" />
+          <e p="Program.cs" t="Include" />
+          <e p="TaxCalc.cs" t="Include" />
+        </e>
+        <e p="Session7" t="Include">
+          <e p="EventDemo.cs" t="Include" />
+          <e p="Program.cs" t="Include" />
+        </e>
+        <e p="Session8" t="Include">
+          <e p="Lab8.cs" t="Include" />
+          <e p="Session8.cs" t="Include" />
+        </e>
       </e>
       <e p="ConsoleApp1.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
     </e>
   </component>
 </project>

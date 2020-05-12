@@ -1,9 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
+using ConsoleApp1.Session7;
 
 
 namespace ConsoleApp1.Lab2_3
 {
+    public delegate void ButtonHander(string msg);
     public class Product
     {
         protected int id;
@@ -81,5 +83,12 @@ namespace ConsoleApp1.Lab2_3
             }
             return false;
         }
+
+        public event ButtonHander Onclick;
+
+        public void ClickButton()
+        {
+            
+        } 
     }
 }

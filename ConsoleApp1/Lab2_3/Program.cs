@@ -21,6 +21,7 @@ namespace ConsoleApp1.Lab2_3
             c1.AddProduct(f1);
             c1.AddProduct(d1);
             Console.WriteLine("Tong tien phai thanh toan:"+ c1.FinalTotal());
+            
         }
         
     }
